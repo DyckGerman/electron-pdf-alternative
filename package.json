@@ -1,0 +1,15 @@
+{
+  "name": "electron-pdf-demo",
+  "version": "0.0.1",
+  "description": "native pdf alternatives demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ./index.js"
+  },
+  "author": "dyckgerman@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.18"
+  }
+}
