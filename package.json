@@ -10,6 +10,6 @@
   "author": "dyckgerman@gmail.com",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^2.0.18"
+    "electron": "^9.1.0"
   }
 }
